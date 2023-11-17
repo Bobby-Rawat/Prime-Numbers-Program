@@ -1,14 +1,35 @@
-# Prime-Numbers-Program
-Prime Numbers with Python Programming
+![1762794_00a2_3](https://github.com/Bobby-Rawat/Python-Basic-Programs/assets/147500429/5bb437d4-1ad5-48e0-98f0-923ebd9d0904)
+<h1> Python </h1>
 
-<h2>History of Prime Numbers</h2>
-The prime number was discovered by Eratosthenes (275-194 B.C., Greece). He took the example of a sieve to filter out the prime numbers from a list of natural numbers and drain out the composite numbers.
-Students can practise this method by writing the positive integers from 1 to 100, circling the prime numbers, and putting a cross mark on composites. This kind of activity refers to the Sieve of Eratosthenes.
+Python was created by Guido van Rossum in the late 1980s. It wanted to be a programming language that was easy to understand and use. In February 1991, Python became available to everyone with version 0.9.0. This marked the beginning of a new language that changed how people wrote code.
 
-<h2>What are Prime Numbers?</h2>
-Prime numbers are natural numbers that are divisible by only 1 and the number itself. In other words, prime numbers are positive integers greater than 1 with exactly two factors, 1 and the number itself. Some of the prime numbers include 2, 3, 5, 7, 11, 13, etc. Always remember that 1 is neither prime nor composite. Also, we can say that except for 1, the remaining numbers are classified as prime and composite numbers. All prime numbers are odd numbers except 2, 2 is the smallest prime number and is the only even prime number.
+<h1>Basic Python Programming Concepts</h1> 
+<h2> 1. Prime Numbers </h2>
+Determines whether a given number is a prime number or not. A prime number is a natural number greater than 1 that has no positive divisors other than 1 and itself.
 
-<h2>How to find prime numbers ?</h2>
-To find whether a number is prime, try dividing it with the prime numbers 2, 3, 5, 7 and 11. If the number is exactly divisible by any of these numbers, it is not a prime number, otherwise, it is a prime. Alternatively, we can find the prime numbers by writing their factors since a prime number has exactly two factors, 1 and the number itself.
+<h2>2. Reverse String </h2>
+Reverses a given string. The function takes a string as input and returns the string in reverse order.
 
-![shutterstock_1111797563](https://github.com/Bobby-Rawat/Prime-Numbers-Program/assets/147500429/ba0f42a8-e010-413c-9a5f-16d480058450)
+<h2> 3. Palindrome </h2>
+Checks if a given string reads the same forwards and backward. For instance, "radar" is a palindrome because it reads the same backward as forward.
+
+<h2>4. Fibonacci Series</h2>
+Generates a sequence of numbers where each number is the sum of the two preceding ones, typically starting with 0 and 1. For example: 0, 1, 1, 2, 3, 5, 8...
+
+<h2>5. Star Patterns</h2>
+Prints various star (*) patterns using loops. These patterns can create shapes like triangles, squares, or other geometrical patterns.
+
+<h2>6. Factorial Calculation</h2>
+Calculates the factorial of a non-negative integer. The factorial of a number 'n' is the product of all positive integers less than or equal to 'n'.
+
+<h2> 7. Even / Odd</h2>
+Determines if a given number is even or odd. An even number is divisible by 2 without a remainder, whereas an odd number isn't divisible by 2 without a remainder.
+
+<h2>Summary</h2>
+
+These foundational concepts form the backbone of Python programming. Understanding these concepts enables developers to start writing programs, manipulating data, implementing logic, and handling errors effectively using Python. Further exploration and practice with these concepts will build a strong foundation for Python programming proficiency.
+
+
+
+
+
